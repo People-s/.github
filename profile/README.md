@@ -56,7 +56,9 @@ Inspiration
 <br>
 
 
-Web3, Decentralisation, and Crypto are great ideas, and one of the best use is of course barter and finance. Even though we have a lot of web2 marketplace apps, still we have to deal with high subscription fees, currency exchange rates, and mosty importantly trust. With Map of Crypto, we have addressed all of those issues, used the power of web3 technologies to solve those issues, and eventually made the online shopping easier, cheaper, and safer.
+Decentralized social media platform that helps connect Web 2 and Web 3 people, and let's users take the ownership of their own content.
+
+
 
 <br>
 <br>
@@ -78,7 +80,14 @@ What it does
 
 
 
-It helps you find/ sell different types of products, all around the world. The only thing you need is your Crypto Wallet (for now we support just MetaMask), and you can start buying and selling things online. First of all we need a seller, the seller puts the item on sell, so that we can see the item and it's location on the map. Then interested buyers, can give put their offers. Moreover, there is also a decentralised Chat Room where buyers and sellers can chat. Once the seller accepts the offer, the money gets staked inside of the smart contract, and it can be realised only under certain conditions, such as delivery of the product (fetched from the data provided by Chainlink APIs), or the cancellation of the purchase. In this way our users do not have to trust anyone, as everything is in the code, the whole system is decentralised and works on the Blockchain
+Connect
+with people with similar interests & ideas
+and become a part of the next-gen Social Media by participating in creating the future.
+
+Our mission
+is to attract people of web 2.0 to web 3.0 with the limitless ownership possibilities and flexibility
+harness the power of blockchain by forming token gated communities
+  
   
 <br>
 <br>
@@ -91,8 +100,7 @@ How we built it
 <br>
 
 
-The whole power of the app lies in our smart contract, which we built with the use of Solidity, and Chainlink Oracles. Later on we have built a simple Backend service in Python, and external adapter for the Chainlink Oracle.
-On the frontend part, we have used React with JavaScript as a fundamental technologies. WalletConnect helps us connecting the users via Metamask, which also works as a connector with the RPC nodes and our smart contract. Additionally, we have implemented web3 storage library for storing assets on the IPFS, and also a decentralised Chat Room powered by Waku connect.
+Overall the idea was to build Social Media Platform for crypto users which are more advanced and to get to know new users how crypto world works.So we made it easier for new users to login and make account even if they where not in contact with web3 world by usin Sequence wallet which generates EVM compatible wallet address with just loging in withe-mail or social media credentials.
 
 <br>
 <br>
@@ -104,8 +112,8 @@ Challenges we ran into
 <br>
 <br>
 
-
-Switching between different chains - first of all we have started from Kovan testnet, but then we have decided to move our contract to the Polygon Mumbai testnet as it is faster, and it's easier to find faucet test tokens. We also had some issues with the Chainlink Oracles configuration, and how to connect them with different networks, as we thought that we can have Chainlink node for multiple networks but apparently currently it's not possible. Additionally, integrating Postgres database was a bit of challenge for us.
+For users of web3 and owners of NFT's we made an option that them can make special channels inside of platform with specific platform parameteres and conditions to be able to join it. Users which are new to web3 and do not vote or participate in channel have option to read-only channels. If they vote or particpate and claim ownership of specific NFT or token they have option to join the channel.
+One of features that we integrate it inside of platform is Livepeer protocol which gives users posibility to pload videos and use live chat inside of channel.
 
 <br>
 <br>
@@ -118,7 +126,8 @@ Accomplishments that we're proud of
 <br>
 
 <p align="center">
-<img src= https://github.com/Map-of-Crypto/.github/assets/98988595/2c641327-1c4c-41c4-aa98-23fb28816682)
+<img width="1494" alt="Screenshot 2023-05-24 at 09 23 33" src="https://github.com/People-s/.github/assets/98988595/ac4d39a3-5772-404d-9655-526065dfd2e0"
+
 </p>
   
 <br>
