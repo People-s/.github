@@ -71,7 +71,8 @@ What it does
 <br>
 
 <p align="center">
-<img src= https://github.com/Map-of-Crypto/.github/assets/98988595/f8d0a89b-4ab2-4144-a7a8-fdf2401753ed
+<img width="1494" alt="Screenshot 2023-05-24 at 09 25 16" src="https://github.com/People-s/.github/assets/98988595/3fa0be40-919a-4a02-b9d5-0d764d249dac">
+
 </p>
   
 <br>
